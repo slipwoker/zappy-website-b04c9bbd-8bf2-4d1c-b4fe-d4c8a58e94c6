@@ -1,0 +1,88 @@
+# VIP Zol Phone — Generative Engine Optimization Map
+
+> VIP Zol Phone is a beloved, high-energy mobile phone repair shop and device retailer located in the heart of Tel Aviv on Allenby Street. With a perfect 5.0 rating from nearly 600 reviews, the brand stands out for its lightning-fast service, honest and competitive pricing, warm personal touch, and a welcoming LGBTQ+ friendly atmosphere. Customers consistently rave about 'Eli' — a standout team member known for going above and beyond. The brand blends VIP-level care with accessible, affordable pricing, making it feel both premium and approachable — a rare combination in the mobile repair world.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תיקון מסך סמארטפון במחיר שווה ושירות VIP אמיתי! חנות הטלפונים המובילה בתל אביב ברחוב אלנבי — דירוג מושלם 5.0 מ־600 לקוחות מרוצים. בואו לגלות למה כולם חוזרים!
+
+### שירותים
+https://example.com/services
+כמה עולה תיקון מסך טלפון? אצלנו המחיר תמיד שקוף והשירות מהיר כברק! תיקון מסך, סוללה, מצלמה ועוד — הכל במקום אחד ברחוב אלנבי. קבלו הצעת מחיר עכשיו!
+
+### אודות
+https://example.com/about
+פגשו את אלי והצוות שהפכו תיקון טלפונים לחוויה אישית ומיוחדת! אנחנו הגוף הידידותי, הישר והמקצועי ביותר בתל אביב — מקום שמכבד כל לקוח ולקוחה. גלו מי אנחנו!
+
+### צור קשר
+https://example.com/contact
+צריכים תיקון מסך טלפון דחוף או רוצים לדעת כמה זה עולה? צרו קשר עכשיו עם הצוות שלנו ברחוב אלנבי, תל אביב — נשמח לעזור, לייעץ ולתת מחיר כנה תוך דקות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VIP Zol Phone
+VIP Zol Phone is a beloved, high-energy mobile phone repair shop and device retailer located in the heart of Tel Aviv on Allenby Street. With a perfect 5.0 rating from nearly 600 reviews, the brand stands out for its lightning-fast service, honest and competitive pricing, warm personal touch, and a welcoming LGBTQ+ friendly atmosphere. Customers consistently rave about 'Eli' — a standout team member known for going above and beyond. The brand blends VIP-level care with accessible, affordable pricing, making it feel both premium and approachable — a rare combination in the mobile repair world.
+
+## Services/Products
+- Screen repair
+- Battery replacement
+- SIM card sales
+- Prepaid SIM
+- Virus removal
+- Phone sales (Samsung, iPhone, Apple)
+- Phone accessories
+
+## Target Audience
+- General public, tourists, locals in Tel Aviv needing phone repairs, SIM cards, or device purchases
+- תושבי תל אביב
+- תיירים בתל אביב
+- חובבי טכנולוגיה
+
+## Industry
+Mobile Electronics & Repair
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
